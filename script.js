@@ -8,9 +8,9 @@ const textBox = document.getElementById('text-box');
 
 //Dark or Light Images
 function imageMode(color) {
-    image1.src = `img/undraw_proud_coder_${color}.svg`;
-    image2.src = `img/undraw_feeling_proud_${color}.svg`;
-    image3.src = `img/undraw_conceptual_idea_${color}.svg`;
+    image1.src = `img/undraw_projections_re_ulc6_${color}.svg`;
+    image2.src = `img/undraw_design_notes_re_eklr_${color}.svg`;
+    image3.src = `img/undraw_scrum_board_re_wk7v_${color}.svg`;
 }
 
 //Dark Mode Styles
